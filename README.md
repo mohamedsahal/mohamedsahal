@@ -1,22 +1,21 @@
 ![logo](https://github.com/mohamedsahal/mohamedsahal/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mohamed Sahal</h1>
-<h3 align="center">Hi there! I'm a Junior MERN stack developer with a passion for building web applications that are both visually appealing and user-friendly. I specialize in building responsive front-end interfaces using React, integrating with back-end REST APIs built on Node.js, and managing data using MongoDB.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsahal&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsahal" /> </p>
+<h3 align="center">I'm a Junior MERN stack developer with a passion for building web applications that are both visually appealing and user-friendly. I specialize in building responsive front-end interfaces using React, integrating with back-end REST APIs built on Node.js, and managing data using MongoDB.</h3>
 
 <p align="left"> <a href="https://twitter.com/mohaansahal" target="blank"><img src="https://img.shields.io/twitter/follow/mohaansahal?logo=twitter&style=for-the-badge" alt="mohaansahal" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://mohamedsahal.com](https://mohamedsahal.com)
 
-- 💬 Ask me about **React, MongoDB, express, Nodejs**
+- 💬 Ask me about **React, MongoDB, Express, Nodejs**
 
 - 📫 How to reach me **mohaansahal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohaansahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohaansahal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-sahal-61119b215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-sahal-61119b215" height="30" width="40" /></a>
 <a href="https://fb.com/mohanuuur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohanuuur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohaansahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohaansahal" height="30" width="40" /></a>
+<a href="https://instagram.com/mohaansahal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohaansahal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
