@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sahal</h1>
 <h3 align="center">I'm a Junior MERN stack developer with a passion for building web applications that are both visually appealing and user-friendly. I specialize in building responsive front-end interfaces using React, integrating with back-end REST APIs built on Node.js, and managing data using MongoDB.</h3>
 
+<p align="left"> <a href="https://twitter.com/mohaansahal" target="blank"><img src="https://img.shields.io/twitter/follow/mohaansahal?logo=twitter&style=for-the-badge" alt="mohaansahal" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://mohamedsahal.com](https://mohamedsahal.com)
 
