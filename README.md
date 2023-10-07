@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohamedsahal.com](https://mohamedsahal.com)
 
-- 💬 Ask me about **React, MongoDB, Express, Nodejs**
+- 💬 Ask me about **React, Nextjs, MongoDB, Express, Nodejs**
 
 - 📫 How to reach me **mohaansahal@gmail.com**
 
