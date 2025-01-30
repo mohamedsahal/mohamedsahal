@@ -1,3 +1,4 @@
+![logo](https://github.com/mohamedsahal/mohamedsahal/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mohamed Sahal</h1>
 <h3 align="center">I'm a Junior MERN stack developer with a passion for building web applications that are both visually appealing and user-friendly. I specialize in building responsive front-end interfaces using React, integrating with back-end REST APIs built on Node.js, and managing data using MongoDB.</h3>
