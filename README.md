@@ -1,4 +1,4 @@
-![logo]
+
 (https://github.com/mohamedsahal/mohamedsahal/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Mohamed Sahal</h1>
