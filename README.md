@@ -1,5 +1,3 @@
-![logo](https://github.com/mohamedsahal/mohamedsahal/blob/main/Github%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Mohamed Sahal</h1>
 <h3 align="center">Senior Full-Stack Developer | Mobile & Web Specialist</h3>
 
@@ -66,19 +64,6 @@ Modern restaurant management and POS system
 - **Adobe XD** - Design prototyping
 - **Photoshop & Illustrator** - Graphics design
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedsahal&show_icons=true&theme=radical&locale=en" alt="mohamedsahal" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsahal&show_icons=true&theme=radical&locale=en&layout=compact" alt="mohamedsahal" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedsahal&theme=radical" alt="mohamedsahal" />
-</p>
 
 ## 💡 What I Do
 
